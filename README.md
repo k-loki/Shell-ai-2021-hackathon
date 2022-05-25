@@ -42,4 +42,4 @@ My thoughts and approaches:
 
 
 
-![shell ai hackathon certificate_compressed](https://user-images.githubusercontent.com/84267959/170216423-cc9cd6e0-e223-4dc7-9daf-b24edd9a2201.jpg)
+<!-- ![shell ai hackathon certificate_compressed](https://user-images.githubusercontent.com/84267959/170216423-cc9cd6e0-e223-4dc7-9daf-b24edd9a2201.jpg) -->
